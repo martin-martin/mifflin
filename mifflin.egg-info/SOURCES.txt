@@ -8,5 +8,4 @@ mifflin.egg-info/PKG-INFO
 mifflin.egg-info/SOURCES.txt
 mifflin.egg-info/dependency_links.txt
 mifflin.egg-info/entry_points.txt
-mifflin.egg-info/requires.txt
 mifflin.egg-info/top_level.txt

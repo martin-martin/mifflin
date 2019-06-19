@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="mifflin",
-    version="0.1.0",
+    version="0.1.1",
     description="...",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -25,7 +25,7 @@ setup(
     ],
     packages=["mifflin"],
     include_package_data=True,
-    install_requires=["webbrowser"],
+    install_requires=[],
     entry_points={
         "console_scripts": [
             "mifflin=mifflin.__main__:main",
